@@ -44,6 +44,9 @@ I build scalable backend systems, secure APIs, and full-stack applications that 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
 
+<img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart" />
+<img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter" />
+
 <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring" />
 <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/Thymeleaf-darkgreen?style=for-the-badge" />
@@ -60,15 +63,6 @@ I build scalable backend systems, secure APIs, and full-stack applications that 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alwaysvikaschoudhary&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysvikaschoudhary&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
@@ -80,8 +74,17 @@ I build scalable backend systems, secure APIs, and full-stack applications that 
 ## ⚡ Highlights
 
 - 🏆 3rd Place – Run Code Run (IIIT Una)
-- 💼 Full Stack Developer Intern @ Cograd
-- 📈 Improved frontend performance by **30%**
+
+<p>
+<a href="https://www.codechef.com/users/alwaysvikas">
+<img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+<a href="https://leetcode.com/bug_crusher_001">
+<img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode" />
+</a>
+</p>
+
 - 🤖 Built AI-powered job recommendation system
 
 ---
