@@ -1,84 +1,87 @@
-# Hi 👋, I'm Vikas Choudhary
+<h1 align="center">Hi 👋, I'm Vikas Choudhary</h1>
+<h3 align="center">🚀 Backend-Focused Full Stack Developer | Java + Spring Boot</h3>
 
-🚀 Backend-Focused Full Stack Developer | Java + Spring Boot | Problem Solver  
-📍 Jaipur, India  
-
-I build secure, scalable backend systems and full-stack applications that solve real-world problems with clean architecture and production-ready practices.
-
----
-
-## 💫 About Me
-
-👨‍💻 Currently pursuing B.Tech in IT at IIIT Una  
-💼 Full Stack Developer Intern @ Cograd (Worked on production-level systems)  
-🌱 Learning: System Design, Spring Cloud, Microservices  
-
-💬 Ask me about:  
-Java, Spring Boot, REST APIs, Authentication (JWT), React, Databases  
-
-⚡ Fun fact:  
-I’ve solved 500+ DSA problems and enjoy breaking complex systems into simple backend logic.
+<p align="center">
+I build scalable backend systems, secure APIs, and full-stack applications that solve real-world problems.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🚀 Backend
-Java • Spring Boot • Spring Security • REST APIs • JWT  
-
-### 🎨 Frontend
-React.js • HTML • CSS • JavaScript  
-
-### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB  
-
-### ⚙️ Tools & DevOps
-Git • GitHub • Docker • Postman • Linux  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alwaysvikaschoudhary&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 📌 Projects
+## 🧠 About Me
 
-### 🔹 Smart Contact Manager
-- Secure contact management system with authentication & email verification  
-- Built REST APIs with Spring Boot for CRUD operations  
-- Implemented role-based access using Spring Security  
-
-### 🔹 Food Delivery App
-- Full-stack food ordering platform with cart & order system  
-- Designed backend APIs for users, restaurants & orders  
-- Integrated secure login & role-based access  
+- 💻 Backend-focused developer with strong grip on **Spring Boot & system design**
+- ⚙️ Experience building **production-ready full-stack applications**
+- 🔐 Skilled in **JWT authentication & secure REST APIs**
+- 📊 Solved **500+ DSA problems** (LeetCode + GFG)
+- 🚀 Focused on building **scalable real-world systems — not just projects**
 
 ---
 
-## 💼 Experience
+## 🌐 Socials
 
-### 💻 Full Stack Developer Intern – Cograd
-- Built and deployed event management modules for real users  
-- Improved frontend performance by **30%**  
-- Designed secure REST APIs with JWT authentication  
-- Integrated AI-based job recommendation system  
-
----
-
-## 🏆 Achievements
-
-🏅 3rd Place – Run Code Run (IIIT Una)  
-🧠 Solved 500+ DSA problems (LeetCode + GFG)  
-⭐ CodeChef 3★ | LeetCode Knight  
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:alwaysvikaschoudhary@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 💻 Tech Stack
 
-📧 alwaysvikaschoudhary@gmail.com  
-🔗 LinkedIn: (add your link)  
-💻 GitHub: https://github.com/alwaysvikaschoudhary  
+<p>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+
+<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring" />
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Thymeleaf-darkgreen?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" />
+
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alwaysvikaschoudhary&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alwaysvikaschoudhary&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysvikaschoudhary&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysvikaschoudhary&layout=compact)
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Highlights
+
+- 🏆 3rd Place – Run Code Run (IIIT Una)
+- 💼 Full Stack Developer Intern @ Cograd
+- 📈 Improved frontend performance by **30%**
+- 🤖 Built AI-powered job recommendation system
+
+---
