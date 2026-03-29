@@ -26,7 +26,7 @@ I build scalable backend systems, secure APIs, and full-stack applications that 
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<a href="https://linkedin.com/in/alwaysvikaschoudhary" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:alwaysvikaschoudhary@gmail.com">
