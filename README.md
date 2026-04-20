@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" />
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
 
 <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart" />
