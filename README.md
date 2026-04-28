@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Choudhary</h1>
 <h3 align="center">🚀 Backend-Focused Full Stack Developer | Java, Spring Boot & Flutter</h3> <p align="center"> I design and build scalable backend systems, secure RESTful APIs, and full-stack applications with real-world impact. </p> <p align="center"> 🔹 Strong in Java, Spring Boot, and backend architecture (authentication, authorization, microservices basics)<br> 🔹 Experienced in building REST APIs, database design (MySQL), and server-side logic<br> 🔹 Frontend skills: React, responsive UI, clean component structure<br> 🔹 Mobile development: Flutter (cross-platform apps with clean UI & API integration)<br> 🔹 Focused on writing clean, maintainable code and solving practical problems<br> 🔹 Familiar with Git, deployment (Render/Railway), and real project workflows </p>
 
----
+----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alwaysvikaschoudhary&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
