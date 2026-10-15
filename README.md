@@ -70,15 +70,15 @@
 
 ## ⚡ Highlights
 
-- 🏆 3rd Place – Run Code Run (IIIT Una)
+- 🏆 2rd Place – Run Code Run (IIIT Una)
 
 <p>
 <a href="https://www.codechef.com/users/alwaysvikas">
-<img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef" />
+<img src="https://img.shields.io/badge/CodeChef-4★-brown?style=for-the-badge&logo=codechef" />
 </a>
 
 <a href="https://leetcode.com/bug_crusher_001">
-<img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/LeetCode-Guardian-orange?style=for-the-badge&logo=leetcode" />
 </a>
 </p>
 
